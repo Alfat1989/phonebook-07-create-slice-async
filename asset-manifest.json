@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/phonebook-07-create-slice-async/static/css/main.073c9b0a.css",
+    "main.js": "/phonebook-07-create-slice-async/static/js/main.bb66fb6b.js",
+    "static/media/logo.svg": "/phonebook-07-create-slice-async/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/phonebook-07-create-slice-async/index.html",
+    "main.073c9b0a.css.map": "/phonebook-07-create-slice-async/static/css/main.073c9b0a.css.map",
+    "main.bb66fb6b.js.map": "/phonebook-07-create-slice-async/static/js/main.bb66fb6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bb66fb6b.js"
+  ]
+}
